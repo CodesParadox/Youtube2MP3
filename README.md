@@ -14,4 +14,4 @@ Create a YouTube to mp3/audio downloader using python's pafy module. You can dow
 In this case, just put your links in the WishList.txt file and enjoy great music to your computer.
 The program takes list of YouTube links from a text file (WishList.txt) and downloads best quality audio available.
 
-Enjoy [wave]
+Enjoy ⊂(◉‿◉)つ
