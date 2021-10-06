@@ -2,10 +2,15 @@
 Converting Youtube audio to mp3
 
 
+
+
 # INSTALLATION
 First you need to install two packages from the terminal:
+```
    pip install pafy
    pip install youtube-dl
+```
+
 
 
 # DESCRIPTION
